@@ -1,0 +1,13 @@
+Insight from dashboard:
+
+1)Males contribute significantly more to revenue compared to females.
+
+2)Silver cardholders generate higher revenue than other card types.
+
+3)Graduates contribute more revenue, highlighting the impact of education level.
+
+4)Business professionals (businessmen) contribute the most within job professions.
+
+5)Customers aged 40-50 generate the highest revenue.
+
+6)Married males and females contribute more revenue than their single counterparts.
